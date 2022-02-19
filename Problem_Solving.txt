@@ -1,7 +1,7 @@
-This is problem solving with Data Structures and Algorithms
+This is problem solving method with Data Structures and Algorithms
 
 I. There should be a systematic approach to problem solving
-    A. Prepare Yourself- pen, paper, and whatever else you need to be at thr ready
+    A. Prepare Yourself- pen, paper, and whatever else you need to be at the ready
     B. Bring up another environment i.e. run.js
     C. Read the Question for understanding
     D. Read the Question for clarity
@@ -9,7 +9,7 @@ I. There should be a systematic approach to problem solving
     F. Write down any key variables and what there uses are.
     G. Note any flowcharts that need to be worked through.
     H. Take note of any branching conditions or special conditions that need to be accounted for
-    I. Take not of what your output should be
+    I. Take note of what your output should be
     J. Take note of the data type your output should be in
     K. Step though the logic of the sample input and output and see how they are getting from point a to point b.
     L. Create a Plan
