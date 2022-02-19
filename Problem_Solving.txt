@@ -1,0 +1,27 @@
+This is problem solving with Data Structures and Algorithms
+
+I. There should be a systematic approach to problem solving
+    A. Prepare Yourself- pen, paper, and whatever else you need to be at thr ready
+    B. Bring up another environment i.e. run.js
+    C. Read the Question for understanding
+    D. Read the Question for clarity
+    E. Write down steps you need to take
+    F. Write down any key variables and what there uses are.
+    G. Note any flowcharts that need to be worked through.
+    H. Take note of any branching conditions or special conditions that need to be accounted for
+    I. Take not of what your output should be
+    J. Take note of the data type your output should be in
+    K. Step though the logic of the sample input and output and see how they are getting from point a to point b.
+    L. Create a Plan
+    M. Start coding
+        a. Put the comments in first
+        b. Note the data structures and pieces of algorithms you want to use.
+        c. Dont spend time optimizing a solution before you have a working solution.
+    N. Refactoring and Optimization
+    O. If you get stuck:
+        a. Don't Worry, Be Happy
+        b. Isolate the problem by pinpointing
+        c. Review how the input and output are being calculated
+        d. Break down the steps to its simplest terms
+        e. Research piece by piece
+        
